@@ -122,6 +122,60 @@ MemAlloc/fast:
 	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/build
 .PHONY : MemAlloc/fast
 
+AllocSingleton.obj: AllocSingleton.cpp.obj
+
+.PHONY : AllocSingleton.obj
+
+# target to build an object file
+AllocSingleton.cpp.obj:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/AllocSingleton.cpp.obj
+.PHONY : AllocSingleton.cpp.obj
+
+AllocSingleton.i: AllocSingleton.cpp.i
+
+.PHONY : AllocSingleton.i
+
+# target to preprocess a source file
+AllocSingleton.cpp.i:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/AllocSingleton.cpp.i
+.PHONY : AllocSingleton.cpp.i
+
+AllocSingleton.s: AllocSingleton.cpp.s
+
+.PHONY : AllocSingleton.s
+
+# target to generate assembly for a file
+AllocSingleton.cpp.s:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/AllocSingleton.cpp.s
+.PHONY : AllocSingleton.cpp.s
+
+allocator.obj: allocator.cpp.obj
+
+.PHONY : allocator.obj
+
+# target to build an object file
+allocator.cpp.obj:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/allocator.cpp.obj
+.PHONY : allocator.cpp.obj
+
+allocator.i: allocator.cpp.i
+
+.PHONY : allocator.i
+
+# target to preprocess a source file
+allocator.cpp.i:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/allocator.cpp.i
+.PHONY : allocator.cpp.i
+
+allocator.s: allocator.cpp.s
+
+.PHONY : allocator.s
+
+# target to generate assembly for a file
+allocator.cpp.s:
+	$(MAKE) -f CMakeFiles\MemAlloc.dir\build.make CMakeFiles/MemAlloc.dir/allocator.cpp.s
+.PHONY : allocator.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... MemAlloc
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... AllocSingleton.obj
+	@echo ... AllocSingleton.i
+	@echo ... AllocSingleton.s
+	@echo ... allocator.obj
+	@echo ... allocator.i
+	@echo ... allocator.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

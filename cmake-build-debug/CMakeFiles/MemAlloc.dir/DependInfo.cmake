@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/AllocSingleton.cpp" "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/cmake-build-debug/CMakeFiles/MemAlloc.dir/AllocSingleton.cpp.obj"
+  "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/allocator.cpp" "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/cmake-build-debug/CMakeFiles/MemAlloc.dir/allocator.cpp.obj"
   "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/main.cpp" "C:/Users/nanog/Documents/College/Sophmore Year/Algorithms/MemAlloc/cmake-build-debug/CMakeFiles/MemAlloc.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

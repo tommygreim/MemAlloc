@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/MemAlloc.dir/AllocSingleton.cpp.obj"
+  "CMakeFiles/MemAlloc.dir/allocator.cpp.obj"
   "CMakeFiles/MemAlloc.dir/main.cpp.obj"
   "MemAlloc.exe"
   "MemAlloc.exe.manifest"

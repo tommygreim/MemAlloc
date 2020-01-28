@@ -3,4 +3,4 @@ project(MemAlloc)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MemAlloc main.cpp)
+add_executable(MemAlloc main.cpp allocator.cpp allocator.h AllocSingleton.cpp AllocSingleton.h)
