@@ -17,9 +17,31 @@ void* allocator::create(size_t bytes){
     if(mode == "default"){
         return malloc(bytes);
     }
+    else{
+        exit(EXIT_FAILURE);
+    }
 }
 
 allocator::allocator() {
     mode = "default";
+}
+
+void allocator::delArr(void *toDel) {
+    if(mode == "default"){
+        free(toDel);
+    }
+}
+
+void* allocator::createArr(size_t bytes) {
+    if(mode == "default"){
+        return malloc(bytes);
+    }
+    else{
+        exit(EXIT_FAILURE);
+    }
+}
+
+void allocator::setMode(std::string newMode) {
+    mode = newMode;
 }
 

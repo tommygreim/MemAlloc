@@ -14,7 +14,10 @@ public:
     allocator(std::string assignedMode);
     allocator();
     void del(void* toDel);
+    void delArr(void* toDel);
     void* create(size_t bytes);
+    void* createArr(size_t bytes);
+    void setMode(std::string mode);
 };
 
 

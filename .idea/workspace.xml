@@ -12,26 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18ab3ff3-a0f3-4e9b-a34f-2a54d1d80f5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AllocSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AllocSingleton.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allocator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allocator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MemAlloc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MemAlloc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MemAlloc.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MemAlloc.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllocSingleton.h" beforeDir="false" afterPath="$PROJECT_DIR$/AllocSingleton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/allocator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocator.h" beforeDir="false" afterPath="$PROJECT_DIR$/allocator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/allocator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/allocator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MemAlloc.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MemAlloc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MemAlloc.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580236195629</updated>
-      <workItem from="1580236197676" duration="3441000" />
+      <workItem from="1580236197676" duration="4606000" />
     </task>
     <servers />
   </component>
@@ -94,21 +83,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1762" height="323" key="GridCell.Tab.0.bottom" timestamp="1580252148208">
+    <state width="1762" height="323" key="GridCell.Tab.0.bottom" timestamp="1580256009790">
       <screen x="0" y="0" width="1805" height="1163" />
     </state>
-    <state width="1762" height="323" key="GridCell.Tab.0.bottom/0.0.1805.1163@0.0.1805.1163" timestamp="1580252148208" />
-    <state width="1762" height="323" key="GridCell.Tab.0.center" timestamp="1580252148208">
+    <state width="1762" height="323" key="GridCell.Tab.0.bottom/0.0.1805.1163@0.0.1805.1163" timestamp="1580256009790" />
+    <state width="1762" height="323" key="GridCell.Tab.0.center" timestamp="1580256009790">
       <screen x="0" y="0" width="1805" height="1163" />
     </state>
-    <state width="1762" height="323" key="GridCell.Tab.0.center/0.0.1805.1163@0.0.1805.1163" timestamp="1580252148208" />
-    <state width="1762" height="323" key="GridCell.Tab.0.left" timestamp="1580252148208">
+    <state width="1762" height="323" key="GridCell.Tab.0.center/0.0.1805.1163@0.0.1805.1163" timestamp="1580256009790" />
+    <state width="1762" height="323" key="GridCell.Tab.0.left" timestamp="1580256009790">
       <screen x="0" y="0" width="1805" height="1163" />
     </state>
-    <state width="1762" height="323" key="GridCell.Tab.0.left/0.0.1805.1163@0.0.1805.1163" timestamp="1580252148208" />
-    <state width="1762" height="323" key="GridCell.Tab.0.right" timestamp="1580252148208">
+    <state width="1762" height="323" key="GridCell.Tab.0.left/0.0.1805.1163@0.0.1805.1163" timestamp="1580256009790" />
+    <state width="1762" height="323" key="GridCell.Tab.0.right" timestamp="1580256009790">
       <screen x="0" y="0" width="1805" height="1163" />
     </state>
-    <state width="1762" height="323" key="GridCell.Tab.0.right/0.0.1805.1163@0.0.1805.1163" timestamp="1580252148208" />
+    <state width="1762" height="323" key="GridCell.Tab.0.right/0.0.1805.1163@0.0.1805.1163" timestamp="1580256009790" />
   </component>
 </project>

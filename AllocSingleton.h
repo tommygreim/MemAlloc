@@ -14,7 +14,7 @@ private:
     static allocator theAlloc;
     AllocSingleton();
 public:
-    static allocator getAlloc() {
+    static allocator& getAlloc() {
         return theAlloc;
     }
 };
